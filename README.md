@@ -1,4 +1,4 @@
-# Police-Ligth-Arduino-Project
+# Police-Light-Arduino-Project
 
 This is my personal project that consist of an arduino with an Ir Remote controller and two led strips. 
 Start with the project at this link: https://www.instructables.com/Addressable-Strip-LED-Police-Strobo/
