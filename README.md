@@ -10,6 +10,5 @@ For solve them take a look at the repository: https://github.com/Arduino-IRremot
 where you can find all the documentation that you need.
 
 /*
-Non deve essere utilizzatto a scopo di lucro e la suo condivisione deve essere autorizzata dal sottoscritto
 Progetto di Albyntek657
 */
